@@ -1,3 +1,4 @@
 # Somemonkers
 ## Who are we?
-spaghetti code producer
+spaghetti code producers
+(no bolognese)
